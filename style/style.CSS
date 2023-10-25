@@ -9,8 +9,13 @@ h1{
 }
 .logo{
     width: auto;
-    height: 45px;
+    height: 75px
 }
 .blue{
     background-color: rgb(110, 182, 226);
+}
+
+.adjust {
+    margin-bottom: -10px;
+    margin-top: -10px;
 }
